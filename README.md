@@ -5,7 +5,7 @@ You may wish to have [ArConnect](https://www.arconnect.io) installed, so you can
 
 ## Configuration
 
-1. Clone or domwnload the git repo
+1. Clone or download the git repo
 2. Open a terminal within the project directory
 3. Run `npm install`
 4. Run `npm run dev`
